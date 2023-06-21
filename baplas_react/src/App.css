@@ -1,0 +1,28 @@
+body {
+
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: aqua;
+  color: black;
+  margin: 10px;
+  padding: 10px;
+  
+}
+tr {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  color: red
+}
+
+td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  color: red
+}
+
+input {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-family:Arial, Helvetica, sans-serif;
+}
